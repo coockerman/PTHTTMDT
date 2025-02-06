@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/tDRN8Uhh1TuMdqKG0bCIDmZhm4xyOEN3ig995GpYUc=",
+  "Hash": "6MFcopb5VrmWyclzJSYumVDDzDzUrEJv7EFNbxwPOMo=",
   "Source": "WebTest",
   "BasePath": "_content/WebTest",
   "Mode": "Default",
@@ -80,27 +80,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\Abract01.png"
     },
     {
-      "Identity": "C:\\Users\\ADMIN\\Desktop\\RestFull\\WebTest\\WebTest\\wwwroot\\assets\\Background-image.png",
-      "SourceId": "WebTest",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\RestFull\\WebTest\\WebTest\\wwwroot\\",
-      "BasePath": "_content/WebTest",
-      "RelativePath": "assets/Background-image#[.{fingerprint}]?.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "2uu66k6uct",
-      "Integrity": "mldJFDVjA6dL5Mhv4a81r+eALy2BHcnwzzRaLKZwGzI=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\Background-image.png"
-    },
-    {
       "Identity": "C:\\Users\\ADMIN\\Desktop\\RestFull\\WebTest\\WebTest\\wwwroot\\assets\\Background-image-2.png",
       "SourceId": "WebTest",
       "SourceType": "Discovered",
@@ -120,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\Background-image-2.png"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Desktop\\RestFull\\WebTest\\WebTest\\wwwroot\\assets\\Background-image.png",
+      "SourceId": "WebTest",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Desktop\\RestFull\\WebTest\\WebTest\\wwwroot\\",
+      "BasePath": "_content/WebTest",
+      "RelativePath": "assets/Background-image#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2uu66k6uct",
+      "Integrity": "mldJFDVjA6dL5Mhv4a81r+eALy2BHcnwzzRaLKZwGzI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\Background-image.png"
     },
     {
       "Identity": "C:\\Users\\ADMIN\\Desktop\\RestFull\\WebTest\\WebTest\\wwwroot\\assets\\Blog-post\\blog1.png",
@@ -2054,88 +2054,6 @@
       ]
     },
     {
-      "Route": "assets/Background-image.2uu66k6uct.png",
-      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\RestFull\\WebTest\\WebTest\\wwwroot\\assets\\Background-image.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2177881"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mldJFDVjA6dL5Mhv4a81r+eALy2BHcnwzzRaLKZwGzI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 17 Feb 2022 09:43:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "2uu66k6uct"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/Background-image.png"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-mldJFDVjA6dL5Mhv4a81r+eALy2BHcnwzzRaLKZwGzI="
-        }
-      ]
-    },
-    {
-      "Route": "assets/Background-image.png",
-      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\RestFull\\WebTest\\WebTest\\wwwroot\\assets\\Background-image.png",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2177881"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/png"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mldJFDVjA6dL5Mhv4a81r+eALy2BHcnwzzRaLKZwGzI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 17 Feb 2022 09:43:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-mldJFDVjA6dL5Mhv4a81r+eALy2BHcnwzzRaLKZwGzI="
-        }
-      ]
-    },
-    {
       "Route": "assets/Background-image-2.png",
       "AssetFile": "C:\\Users\\ADMIN\\Desktop\\RestFull\\WebTest\\WebTest\\wwwroot\\assets\\Background-image-2.png",
       "Selectors": [],
@@ -2214,6 +2132,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-asNMg90XnsSMQ26FQWuPd6PnaupapCEWzIBg6SJ3QX4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Background-image.2uu66k6uct.png",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\RestFull\\WebTest\\WebTest\\wwwroot\\assets\\Background-image.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2177881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mldJFDVjA6dL5Mhv4a81r+eALy2BHcnwzzRaLKZwGzI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Feb 2022 09:43:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2uu66k6uct"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/Background-image.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mldJFDVjA6dL5Mhv4a81r+eALy2BHcnwzzRaLKZwGzI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Background-image.png",
+      "AssetFile": "C:\\Users\\ADMIN\\Desktop\\RestFull\\WebTest\\WebTest\\wwwroot\\assets\\Background-image.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2177881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mldJFDVjA6dL5Mhv4a81r+eALy2BHcnwzzRaLKZwGzI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 17 Feb 2022 09:43:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mldJFDVjA6dL5Mhv4a81r+eALy2BHcnwzzRaLKZwGzI="
         }
       ]
     },
