@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Desktop\\RestFull\\WebTest\\WebTest\\WebTest.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\RestFull\\Nguyễn Thanh Hải 2155010085\\WebTest\\WebTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\RestFull\\WebTest\\WebTest\\WebTest.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\RestFull\\Nguyễn Thanh Hải 2155010085\\WebTest\\WebTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\RestFull\\WebTest\\WebTest\\WebTest.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\RestFull\\Nguyễn Thanh Hải 2155010085\\WebTest\\WebTest.csproj",
         "projectName": "WebTest",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\RestFull\\WebTest\\WebTest\\WebTest.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\RestFull\\Nguyễn Thanh Hải 2155010085\\WebTest\\WebTest.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\RestFull\\WebTest\\WebTest\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\RestFull\\Nguyễn Thanh Hải 2155010085\\WebTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
