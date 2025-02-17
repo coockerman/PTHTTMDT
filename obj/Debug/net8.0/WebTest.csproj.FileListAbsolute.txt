@@ -294,3 +294,4 @@ C:\Users\ADMIN\Desktop\RestFull\Nguyễn Thanh Hải 2155010085\WebTest\obj\Debu
 C:\Users\ADMIN\Desktop\RestFull\Nguyễn Thanh Hải 2155010085\WebTest\obj\Debug\net8.0\WebTest.csproj.Up2Date
 C:\Users\ADMIN\Desktop\RestFull\Nguyễn Thanh Hải 2155010085\WebTest\obj\Debug\net8.0\WebTest.genruntimeconfig.cache
 C:\Users\ADMIN\Desktop\RestFull\Nguyễn Thanh Hải 2155010085\WebTest\obj\Debug\net8.0\ref\WebTest.dll
+C:\Users\ADMIN\Desktop\RestFull\Nguyễn Thanh Hải 2155010085\WebTest\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
